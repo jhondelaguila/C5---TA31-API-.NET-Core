@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCOS2JXXIj3L9lLJiRo8E4O4hgNqrkSEop/HVn1tb0wN7xK1qtsfYTSrwozEtORdRPLZYsHNRCmJVlT1h8VRZg==",
+  "success": true,
+  "projectFilePath": "/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C5---TA31-API-.NET-Core/ex1/ex1/ex1.csproj",
+  "expectedPackageFiles": [
+    "/Users/jhonjr/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/jhonjr/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jhonjr/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jhonjr/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jhonjr/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jhonjr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jhonjr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
